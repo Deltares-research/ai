@@ -1,0 +1,2 @@
+# Skills :
+implicitly triggered instructions that can be used to perform specific tasks or actions. These skills can be activated through natural language commands or prompts, allowing users to interact with the system in a more intuitive way. Skills can range from simple tasks like setting reminders or sending messages to more complex actions like data analysis or content generation.
